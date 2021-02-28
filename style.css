@@ -1,0 +1,52 @@
+
+ h1{
+    color: indianred;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(202, 243, 229); 
+    border: 2px solid black;
+   
+    
+}
+#outer{
+    
+    margin-top: 70px;
+
+    
+}
+legend{
+color: rgb(131, 22, 131);
+top: 30px;
+font-size: 50px;
+position: sticky;
+}
+
+#f1{
+    
+    color: lawngreen;
+    top: 70px;
+    position: static;
+    
+    
+}
+#f2{
+    color: rgb(117, 178, 214);
+}
+#f3{
+    color: rgb(177, 89, 31);
+}
+#f4{
+    color: rgb(235, 127, 199);
+}
+#f5{
+    color: rgb(51, 202, 157);
+}
+#f6{
+    color: rgb(139, 80, 235);
+}
+
+ .namephon{
+    display: inline-block;
+    height: 10px;
+    
+}
